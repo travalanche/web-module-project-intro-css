@@ -115,8 +115,7 @@ nav a{
     display: inline-block;
     text-align: center;
     margin-left: 60%;
-    margin-bottom: 75%;
-    border: 0 auto;
+   
     
     
 }
@@ -173,7 +172,11 @@ footer{
 }
 
 .fireinfo p{
-    align-content: center;
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+
 }
 .fire_img{
     display:inline-block;
